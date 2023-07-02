@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo apt-get update -y
 # sudo apt-get upgrade -y
-sudo apt-get install pip3 -y
+sudo apt-get install python3-pip -y
 sudo apt-get install python3 -y
 sudo apt-get install git -y
 sudo apt-get install python-is-python3
