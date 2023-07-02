@@ -14,7 +14,7 @@ cd AutoGPTQ
 git checkout v0.2.2
 pip install .
 cd
-sudo apt install nvidia-driver-510 -y
+#sudo apt install nvidia-driver-510 -y
 sudo apt-get -y install nvtop
 echo "Enter your machines IP Addr:"
 read ipaddr
